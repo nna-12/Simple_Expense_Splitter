@@ -1,0 +1,3 @@
+com\expense\splitter\ExpenseSplitterApplicationTests.class
+com\expense\splitter\service\ExpenseServiceTest.class
+com\expense\splitter\controller\ExpenseControllerTest.class
